@@ -32,5 +32,5 @@ torchvision==0.2.1
 tqdm==4.26.0
 traitlets==4.3.2
 Unidecode==1.0.22
-urllib3==1.22
+urllib3==1.26.5
 wcwidth==0.1.7
